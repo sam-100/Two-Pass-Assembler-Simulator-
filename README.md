@@ -24,3 +24,4 @@ RESULT EQU X
 A DS 4
 B DC 2
  END
+ 
